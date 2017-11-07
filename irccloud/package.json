@@ -1,0 +1,12 @@
+{
+  "id": "irccloud",
+  "name": "IRCCloud",
+  "version": "1.0.0",
+  "description": "IRCCloud",
+  "main": "index.js",
+  "author": "Red Rayner <redrayner@heavyweightmark.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.irccloud.com/"
+  }
+}
